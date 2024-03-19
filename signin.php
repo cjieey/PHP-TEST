@@ -14,7 +14,7 @@
 <div class="contain" id="contain">
 <img class="logo" src="logo.png" alt="">
     <background class="with-blur-backdrop"></background>
-        <form class="form1" id="form1">
+        <form class="form1" id="form1" action= "signup.php"method = "POST">
             <h1>SIGN UP</h1>
             <input type="text" name="firstname" placeholder="Firstname"><br><br>
             <input type="text" name="lastname" placeholder="Lastname"><br><br>
